@@ -20,7 +20,7 @@ body {
     align-items: center;
     background-color: #191765;
   }
-  
+
   main {
     width: 375px;
     display: flex;
@@ -31,4 +31,16 @@ body {
     background-repeat: no-repeat;
     background-position-x: -200px;
   }
-  
+  header a {
+  font-family: Roboto, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #fff;
+  text-decoration: none;
+  padding-left: 24px;
+  padding-right: 24px;
+}
