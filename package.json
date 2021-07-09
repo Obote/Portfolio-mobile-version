@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Obote/Portfolio-mobile-version/issues"
   },
-  "homepage": "https://github.com/Obote/Portfolio-mobile-version#readme"
+  "homepage": "https://github.com/Obote/Portfolio-mobile-version#readme",
+  "devDependencies": {
+    "hint": "^6.1.4"
+  }
 }
