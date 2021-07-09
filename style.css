@@ -182,4 +182,58 @@ body {
     color: #fff;
     padding-top: 48px;
   }
+
+
+.experience-title {
+    align-self: start;
+    margin-left: 20px;
+    padding-top: 83.85px;
+  }
+  
+  .experience-title h2 {
+    font-family: Roboto, sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 52px;
+    letter-spacing: 0;
+    text-align: left;
+    color: #9490ff;
+  }
+  
+  .experience-container > img {
+    height: 236px;
+    width: 327px;
+    left: 0;
+    top: 0;
+    border-radius: 0;
+    padding-top: 48px;
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  
+  .experience-container > h3 {
+    font-family: Roboto, sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: 0;
+    text-align: left;
+    padding-left: 24px;
+    color: #fff;
+  }
+  
+  .experience-container p {
+    font-family: Inter, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0;
+    text-align: left;
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  
   
