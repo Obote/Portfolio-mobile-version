@@ -17,7 +17,7 @@ Project day 4 of Microserve bootcamp, module 1
 - css
 ## Live Demo
 
-[Live Demo Link](https://live.com)
+[Live Demo Link](https://obote.github.io/Portfolio-mobile-version/)
 
 
 
