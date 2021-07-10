@@ -277,3 +277,9 @@ li {
   border-color: #acb7c3;
   color: #acb7c3;
 }
+
+ul {
+  display: grid;
+  grid-template-columns: 1fr;
+  list-style-type: none;
+}
