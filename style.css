@@ -263,18 +263,17 @@ li {
   padding-right: 20px;
 }
 
-
 .project-button :hover {
-    background-color: #e5e5e5;
-  }
-  
+  background-color: #e5e5e5;
+}
+
 .project-button:focus {
-    outline: none;
-    box-shadow: 0 0 0 3px #7d73fc;
-  }
-  
+  outline: none;
+  box-shadow: 0 0 0 3px #7d73fc;
+}
+
 .project-button:active {
-    background-color: #e5e5e5;
-    border-color: #acb7c3;
-    color: #acb7c3;
-  }
+  background-color: #e5e5e5;
+  border-color: #acb7c3;
+  color: #acb7c3;
+}
